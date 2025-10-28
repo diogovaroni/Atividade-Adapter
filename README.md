@@ -31,4 +31,4 @@ No contexto deste projeto, ele atua como um **tradutor** entre o sistema central
 ```
 
 ## Diagrama de Classes
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d991a395-3a95-449e-8f35-c9a64429eb06" />
+<img width="512" height="342" alt="image" src="https://github.com/user-attachments/assets/d991a395-3a95-449e-8f35-c9a64429eb06" />
