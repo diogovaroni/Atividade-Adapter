@@ -15,6 +15,7 @@ No contexto deste projeto, ele atua como um **tradutor** entre o sistema central
 ---
 
 ## 🏗️ Estrutura do Projeto
+```
 📦 redes-sociais-adapter
 ├── iPublicador.java
 ├── TwitterAPI.java
@@ -27,6 +28,7 @@ No contexto deste projeto, ele atua como um **tradutor** entre o sistema central
 ├── TikTokAdapter.java
 ├── gerenciadorMidiaSocial.java
 └── cliente.java
+```
 
 ## Diagrama de Classes
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d991a395-3a95-449e-8f35-c9a64429eb06" />
